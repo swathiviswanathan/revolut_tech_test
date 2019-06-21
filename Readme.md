@@ -68,3 +68,5 @@ Then, execute behave with allure formatted report,
 to view the generated report, use the below command with appropriate(relative) folder path.
 
     allure serve results/allure
+
+*Note: allure-behave python library is not mentioned as a mandatory library and can be installed based on need.*

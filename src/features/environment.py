@@ -1,6 +1,5 @@
 import sys
 import os
-import easygui
 from selenium import webdriver
 
 from steps.utils.reporter import Reporter
